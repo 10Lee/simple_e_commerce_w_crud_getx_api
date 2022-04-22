@@ -4,7 +4,7 @@ status : Incomplete
 
 Todo next : 
 - Fix error posting new airsoft product and fix error upload image to api server
-- Create login and save the token into getStorage
+- Create login and save the token into getStorage, then use it in connect_api.dart as Bearer token
 - Create new transaction from the cart, POST to the transaction path in API
 
 Screenshot

@@ -1,7 +1,8 @@
 # simple_crud_getx_airsoft_api
 
 status : Incomplete
-homework 
+
+Todo next : 
 - Fix error posting new airsoft product and fix error upload image to api server
 - Create login and save the token into getStorage
 - Create new transaction from the cart, POST to the transaction path in API
